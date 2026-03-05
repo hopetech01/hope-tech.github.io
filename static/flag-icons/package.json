@@ -19,7 +19,7 @@
     "http-server": "14.1.0",
     "less": "4.1.2",
     "prettier": "2.6.2",
-    "svgo": "2.8.0"
+    "svgo": "2.8.2"
   },
   "scripts": {
     "build": "yarn build:dev && yarn build:min",
